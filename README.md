@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # Olá Mundo
-![Texto alternativo](https://media.tenor.com/94EqbnFW_4QAAAAi/cj-dan%C3%A7ando-dancing.gif)
+![Cj dançando](https://media.tenor.com/94EqbnFW_4QAAAAi/cj-dan%C3%A7ando-dancing.gif)
+![Persona. Gta SA](https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif)
 <!--
 **jaovls/jaovls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
