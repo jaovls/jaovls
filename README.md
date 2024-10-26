@@ -3,12 +3,6 @@
 # Cursando Análie e Desenvolvimento de Sistemas
 <img src= "https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif" alt="Texto alternativo" width="200px" height="200px">
 
-<img  src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1" style="display: inline-block"/>
-<img  src="https://img.icons8.com/color/48/css3.png" alt="css3" style="display: inline-block"/>
-<img  src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1" style="display: inline-block"/>
-<img  src="https://img.icons8.com/pulsar-gradient/48/database.png" alt="database" style="display: inline-block"/>
-<img  src="https://img.icons8.com/color/48/programming--v1.png" alt="programming--v1" style="display: inline-block"/>
-
 ![Ícone 1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![Ícone 2](https://img.icons8.com/color/48/css3.png) &nbsp; ![Ícone 3](https://img.icons8.com/color/48/javascript--v1.png) &nbsp; ![Ícone 4](https://img.icons8.com/pulsar-gradient/48/database.png) &nbsp; ![Ícone 4](https://img.icons8.com/color/48/programming--v1.png)
 
 
