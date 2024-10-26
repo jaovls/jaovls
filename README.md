@@ -2,7 +2,7 @@
 <!-- <img src= "https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif" alt="Texto alternativo" width="200px" height="200px">
 <img src= "https://media.tenor.com/0V7BXvA3gBMAAAAi/gc25-team-gc25.gif" alt="Texto alternativo" width="200px" height="200px"> -->
 
-![gif1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![gif2](https://img.icons8.com/color/48/css3.png)
+![gif1](https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif) &nbsp; ![gif2](https://media.tenor.com/0V7BXvA3gBMAAAAi/gc25-team-gc25.gif)
 
 ![Ícone 1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![Ícone 2](https://img.icons8.com/color/48/css3.png) &nbsp; ![Ícone 3](https://img.icons8.com/color/48/javascript--v1.png) &nbsp; ![Ícone 4](https://img.icons8.com/pulsar-gradient/48/database.png) &nbsp; ![Ícone 4](https://img.icons8.com/color/48/programming--v1.png)
 
