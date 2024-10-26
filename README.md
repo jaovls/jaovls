@@ -2,10 +2,15 @@
 
 # Cursando Análie e Desenvolvimento de Sistemas
 <img src= "https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif" alt="Texto alternativo" width="200px" height="200px">
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/database.png" alt="database"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/programming--v1.png" alt="programming--v1"/>
 
 
-https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif
+
 
 <!--
 **jaovls/jaovls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
