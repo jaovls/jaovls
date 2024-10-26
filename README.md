@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-# Olá Mundo
+# Cursando Análie e Desenvolvimento de Sistemas
 ![Cj dançando](https://media.tenor.com/94EqbnFW_4QAAAAi/cj-dan%C3%A7ando-dancing.gif)
 ![Persona. Gta SA](https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif)
 <img src="https://media.tenor.com/94EqbnFW_4QAAAAi/cj-dan%C3%A7ando-dancing.gif" alt="Texto alternativo" width="100px" height="200px">
+![iconHTML](https://github.com/user-attachments/assets/8e7f1ae2-e9c6-437d-9761-047b4f68f6fe)
 
 <!--
 **jaovls/jaovls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
