@@ -18,7 +18,6 @@ Eu sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. �
 ### 💻 O que eu uso:
 ![Ícone 1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![Ícone 2](https://img.icons8.com/color/48/css3.png) &nbsp; ![Ícone 3](https://img.icons8.com/color/48/javascript--v1.png) &nbsp; ![Ícone 4](https://img.icons8.com/pulsar-gradient/48/database.png) &nbsp; ![Ícone 4](https://img.icons8.com/color/48/programming--v1.png)
 
-<span style="color: #1E90FF;">Trabalhando com front-end, back-end e inteligência artificial.</span>
 
 
 
