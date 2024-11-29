@@ -7,6 +7,13 @@
 ![Ícone 1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![Ícone 2](https://img.icons8.com/color/48/css3.png) &nbsp; ![Ícone 3](https://img.icons8.com/color/48/javascript--v1.png) &nbsp; ![Ícone 4](https://img.icons8.com/pulsar-gradient/48/database.png) &nbsp; ![Ícone 4](https://img.icons8.com/color/48/programming--v1.png)
 
 
+### 💻 Tecnologias que uso:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 
 
 <!--
