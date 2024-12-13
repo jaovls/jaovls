@@ -3,10 +3,8 @@
 Eu sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. 💻
 
 ### Sobre mim:
-- 🚀 Desenvolvedor Full Stack
-- 🌱 Atualmente aprendendo sobre cibersegurança e MySQL
-- 🦸‍♂️ Apaixonado por criar soluções eficientes
-- 🌍 Contribuindo para projetos open-source
+- 🚀 Buscando sempre evoluir
+- 🎮 Apaixonado por games
 
 ## 📧 Entre em contato:
 - Email: 002.joaovitor@gmail.com
