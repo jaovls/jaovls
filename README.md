@@ -1,20 +1,22 @@
-# Olá, Eu sou o [João Vitor](https://github.com/jaovls) 👋
+# 👋 Olá, eu sou o [João Vitor](https://github.com/jaovls)
 
-Eu sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. 💻
+Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. 💻
 
-### Sobre mim:
-- 🚀 Buscando sempre evoluir
-- 🎮 Apaixonado por games
+### 🚀 Sobre mim
+- Sempre em busca de evolução
+- Apaixonado por games 🎮
 
-## 📧 Entre em contato:
-- Email: 002.joaovitor@gmail.com
-- [LinkedIn](www.linkedin.com/in/joão-vitorls)
+## 📧 Contato
+- Email: 002.joaovitor@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/joão-vitorls)
 
-![gif1](https://media.tenor.com/03h-1rm2SwYAAAAi/keyvon-crawford-kilo-tray-ballas.gif) &nbsp; ![gif2](https://media.tenor.com/0V7BXvA3gBMAAAAi/gc25-team-gc25.gif)
+### 💻 Tecnologias que uso
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
+![JavaScript](https://img.icons8.com/color/48/javascript--v1.png)
+![Banco de Dados](https://img.icons8.com/pulsar-gradient/48/database.png)
+![Programação](https://img.icons8.com/color/48/programming--v1.png)
 
-
-### 💻 O que eu uso:
-![Ícone 1](https://img.icons8.com/color/48/html-5--v1.png) &nbsp; ![Ícone 2](https://img.icons8.com/color/48/css3.png) &nbsp; ![Ícone 3](https://img.icons8.com/color/48/javascript--v1.png) &nbsp; ![Ícone 4](https://img.icons8.com/pulsar-gradient/48/database.png) &nbsp; ![Ícone 4](https://img.icons8.com/color/48/programming--v1.png)
 
 
 
